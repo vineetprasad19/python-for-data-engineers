@@ -42,5 +42,5 @@ Implement Complete Data Pipeline Data Engineering Project using Spotify
 * Adding trigger to run the extraction automatically 
 * Writing transformation function
 * Building automated trigger on transformation function 
-* Store files on S3 properly
-* Building Analytics Tables on data files using Glue and Athena
+* Store files on AWS S3 properly
+* Building Analytics Tables on data files using AWS Glue and Athena
