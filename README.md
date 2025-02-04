@@ -1,4 +1,4 @@
-# python-for-data-engineers
+# Python for Data Engineers
 This course and project is for anyone who wants to learn Python.
 
 ## Module 1: [Customer Data Analysis Project](https://github.com/vineetprasad19/python-for-data-engineers/tree/main/1.Customer%20Data%20Python%20Project)
